@@ -1,2 +1,2 @@
-# sqss-maintenance
-Static maintenance page
+# Maintenance Mode
+You probably want [the gh-pages branch](https://github.com/databasically/sqss-maintenance/tree/gh-pages)
